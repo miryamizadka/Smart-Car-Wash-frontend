@@ -41,7 +41,7 @@ This is the frontend for the Smart Car Wash Pro application, a full-stack system
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/smart-car-wash-frontend.git
+    git clone https://github.com/miryamizadka/smart-car-wash-frontend.git
     cd smart-car-wash-frontend
     ```
 
