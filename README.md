@@ -2,12 +2,11 @@
 
 This is the frontend for the Smart Car Wash Pro application, a full-stack system for mobile car wash services. This application provides a seamless user experience for booking, tracking, and managing car wash orders, along with a comprehensive admin dashboard.
 
-![App Demo GIF](link-to-your-gif-here.gif) <!-- מומלץ מאוד להוסיף GIF שמראה את האפליקציה! -->
 
 ---
 
 ### 🔗 **Link to Backend Repository**
-[smart-car-wash-backend](https://github.com/your-username/smart-car-wash-backend)
+[smart-car-wash-backend](https://github.com/miryamizadka/smart-car-wash-backend)
 
 ---
 
@@ -38,7 +37,7 @@ This is the frontend for the Smart Car Wash Pro application, a full-stack system
 
 ### 🚀 Getting Started
 
-**Prerequisites:** Make sure the [backend server](https://github.com/your-username/smart-car-wash-backend) is running before starting the frontend.
+**Prerequisites:** Make sure the [backend server](https://github.com/miryamizadka/smart-car-wash-backend) is running before starting the frontend.
 
 1.  **Clone the repository:**
     ```bash
